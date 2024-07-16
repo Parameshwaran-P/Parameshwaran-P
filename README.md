@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Full stack development in FITA Academy**
 
-- 👨‍💻 All of my projects are available at [https://parameshwaran-p.github.io/My-Portfolio-using-a-React-JS-and-Tailwind-CSS/](https://parameshwaran-p.github.io/My-Portfolio-using-a-React-JS-and-Tailwind-CSS/)
+- 👨‍💻 All of my projects are available at [Parameshwaran_Profile](https://paramesh-myportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://paramesh-75.blogspot.com/](https://paramesh-75.blogspot.com/)
 
