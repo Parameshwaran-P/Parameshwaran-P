@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PARAMESHWARAN P</h1>
 <h3 align="center">A passionate MERN stack developer with experience in building dynamic and responsive web applications. My expertise lies in MongoDB, Express.js, React, and Node.js.</h3>
 
-- 🌱 I’m currently learning **MERN Full stack development in FITA Academy**
+- 🌱 I have completed **MERN Full stack development in FITA Academy**
 
 - 👨‍💻 All of my projects are available at [Parameshwaran_Profile](https://paramesh-myportfolio.netlify.app/)
 
