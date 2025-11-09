@@ -3,7 +3,7 @@
 
 - 🌱 I have completed **MERN Full stack development in FITA Academy**
 
-- 👨‍💻 All of my projects are available at [Parameshwaran_Profile](https://paramesh-myportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Parameshwaran_Profile](https://www.parameshwaran.co.in/)
 
 - 📝 I regularly write articles on [https://paramesh-75.blogspot.com/](https://paramesh-75.blogspot.com/)
 
