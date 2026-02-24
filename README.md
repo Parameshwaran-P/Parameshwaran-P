@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PARAMESHWARAN P</h1>
-<h3 align="center">A fulsl stack developer with experience in building dynamic and responsive web applications. My expertise lies in MongoDB, Express.js, React, and Node.js.</h3>
+<h3 align="center">A full stack developer with experience in building dynamic and responsive web applications. My expertise lies in MongoDB, Express.js, React, and Node.js.</h3>
 
 - 🌱  **Full stack developer at Finari Services Pvt Ltd**
 
